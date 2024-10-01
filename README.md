@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Junior Game Developer | Unity | 3D & VR</p>
+<p align="left">Backend Developer | Java | JS</p>
 
 ###
 
@@ -14,10 +14,10 @@
 
 ###
 
-<p align="left">- 👾  I’m currently working with <b>Unity</b> and anything related with <b>Game Development</b>.<br>
-<br>- 💬  Ask me about <b>Unity</b><br>
-<br>- 📫  How to reach me selcukbasaran41@gmail.com<br>
-<br>- 🌱 Currently learning <b>.Net</b></p>
+<p align="left">- 👾  I’m currently working with <b>Java</b> and anything related with <b>Backend</b>.<br>
+<br>- 💬  Ask me about <b>Java/JS/Unity</b><br>
+<br>- 📫  How to reach me selcuk_basaran@icloud.com<br>
+<br>- 🌱 Currently learning <b>C++</b></p>
 
 ###
 <h3 align="left">Connect with me:</h3>
