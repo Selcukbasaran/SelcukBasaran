@@ -1,52 +1,13 @@
-<h1 align="center">Hey 👋, I'm Selçuk Başaran</h1>
+# Selçuk Başaran
 
-###
+Backend Software Engineer | Java | Spring Boot | Kafka | IoT | MES
 
-<p align="left">Backend Developer | Java | MES | IoT | MariaDB | MongoDB | ClickHouse | Kafka</p>
+Backend developer at ARDICTECH since April 2023, working on a manufacturing execution system (MES).
 
-###
+- Working with: Java, Spring Boot, Kafka, MariaDB, MongoDB, ClickHouse, Apache NiFi
+- Currently working on my thesis
 
-<h2 align="left">About me</h2>
+## Contact
 
-###
-###
-<img align="right" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif" width="230" height="230" />
-
-###
-
-<p align="left">- 👾  I’m currently working with <b>Java</b> and anything related with <b>Backend</b>.<br>
-<br>- 💬  Ask me about <b>Java</b><br>
-<br>- 📫  How to reach me basaranselcuk@icloud.com<br>
-<br>- 🌱 Currently working on <b>my thesis</b></p>
-
-###
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/selcuk-basaran" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="selcukbasaran" height="30" width="30" /></a>
-<a href="https://instagram.com/selcuk.bsra" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cengizcmataraci" height="30" width="30" /></a>
-</p>
-
-<h3 align="left">Tech Stack:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo"  />
-</div>
-
-###
-
-
-
-<h3 align="left">Tools:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="40" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="40" alt="vim logo"  />
-</div>
-
-###
+- Email: [selcuk@selcukbasaran.dev](mailto:selcuk@selcukbasaran.dev)
+- LinkedIn: [linkedin.com/in/selcuk-basaran](https://www.linkedin.com/in/selcuk-basaran)
